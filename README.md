@@ -19,7 +19,7 @@ Uses the openpyxl engine for efficient Excel file handling.
 
 bash
 Copy code
-git clone https://github.com/yourusername/Convert-in-Excel.git
+git clone https://github.com/yourusername/Row-DataToExcel.git
 cd Convert-in-Excel
 Install the required Python libraries:
 
